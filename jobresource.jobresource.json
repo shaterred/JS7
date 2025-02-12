@@ -1,0 +1,10 @@
+{
+  "TYPE" : "JobResource",
+  "version" : "1.7.3",
+  "arguments" : {
+    "name" : "\"aakash\""
+  },
+  "env" : {
+    "NAME" : "$name"
+  }
+}
